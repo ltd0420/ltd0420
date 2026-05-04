@@ -44,27 +44,9 @@ https://github.com/ltd0420/KFC-Food-Ordering-App
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ltd0420&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ltd0420&theme=tokyonight" />
-</p>
-
----
-
 ## 🏆 Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ltd0420&theme=matrix" />
 </p>
 
 ---
-
-## 🤝 Connect with me
-<p align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" />
-  </a>
-  <a href="mailto:dlai01929@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?logo=gmail" />
-  </a>
-</p>
